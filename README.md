@@ -107,7 +107,7 @@ Frontend mặc định chạy tại: `http://localhost:3000`
 
 Nếu bạn muốn huấn luyện lại mô hình thay vì dùng model có sẵn, hãy làm theo các bước sau:
 
-1. Mở file notebook: **fruits_quality_vgg16_training.ipynb** (khuyến khích chạy trên Google Colab hoặc Jupyter)
+1. Mở file notebook: **vgg16_fruit_model_2cls.ipynb** (khuyến khích chạy trên Google Colab hoặc Jupyter)
 
 2. Chuẩn bị dataset (ví dụ từ Kaggle). Dataset cần có cấu trúc:
 
